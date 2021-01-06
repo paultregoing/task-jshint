@@ -1,6 +1,6 @@
 {
   "name": "phing/task-jshint",
-  "description": "Checks the JavaScript code using JSHint.",
+  "description": "Checks the JavaScript code using JSHint. Forked for POPP6/PHP8",
   "minimum-stability": "dev",
   "prefer-stable": true,
   "license": "LGPL-3.0-only",
